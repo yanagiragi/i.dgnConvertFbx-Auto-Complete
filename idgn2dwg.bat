@@ -9,4 +9,4 @@ cd "C:\Program Files (x86)\Bentley\MicroStation V8i (SELECTseries)\MicroStation"
 .\ustation.exe -wabatchconvert -iC:\Users\%USERNAME%\Desktop\Convert2Dwg.bcnv
 
 rem C:\ProgramData\Bentley\MicroStation V8i (SELECTseries)\WorkSpace\Projects\Untitled\out\batchprocess.log
-rem C:\Users\cglab216\AppData\Local\Bentley\Logs\Bentley.Connect.Client.exe.log
+rem C:\Users\%USERNAME%\AppData\Local\Bentley\Logs\Bentley.Connect.Client.exe.log
